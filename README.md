@@ -1,7 +1,7 @@
 Coding exercise. A simple CRUD style React+Redux application with Google Custom Search Engine integration.
 
 ## Installation
-Edit the src/config.js file to set the Product API endpoint, Google Search Engine ID, and Google API Key. [Read here](https://developers.google.com/custom-search/json-api/v1/overview#prerequisites) on how to set up the latter.
+Edit the `src/config.js` file to set the **Product API endpoint**, **Google Search Engine ID**, and **Google API Key**. [Read here](https://developers.google.com/custom-search/json-api/v1/overview#prerequisites) on how to set up the latter.
 ```
 npm install
 npm start
@@ -9,7 +9,7 @@ npm start
 
 
 ## Tech stack
-* [Google Custom Search JSON API](https://developers.google.com/custom-search/json-api/v1/overview)
+* [Google Custom Search JSON API](https://developers.google.com/custom-search/json-api/v1/overview) to find product images
 * [Create React App](https://github.com/facebookincubator/create-react-app) to quickly bootstrap the project and avoid wasting half a day configuring WebPack
 * [React](https://facebook.github.io/react/)
 * [Redux](https://github.com/reactjs/redux) to manage state
