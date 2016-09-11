@@ -17,6 +17,7 @@ npm start
 * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * [fetch-mock](https://github.com/wheresrhys/fetch-mock)
 * [Bootstrap](http://getbootstrap.com/)
+* [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ## TODO
 I spent 8-10 hours on this application and obviously there is plenty of room for improvement:
