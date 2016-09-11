@@ -7,6 +7,10 @@ npm install
 npm start
 ```
 
+## Tests
+```
+npm run test
+```
 
 ## Tech stack
 * [Google Custom Search JSON API](https://developers.google.com/custom-search/json-api/v1/overview) to find product images
