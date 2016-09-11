@@ -24,3 +24,4 @@ I spent 8-10 hours on this application and obviously there is plenty of room for
 * Store selected product in Redux Store
 * Ask if user wants to cancel the changes when closing the product edit view
 * Show feedback message when product has been saved or failed to save
+* Cache photo search results to localStorage to avoid unnecessary trips to Google Custom Search API. The API provides only 100 search queries per day for free. See [pricing details](https://developers.google.com/custom-search/json-api/v1/overview#pricing)
